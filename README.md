@@ -1,8 +1,9 @@
 # AIS_TMT
+Anne-Elise Nieblas
+11/11/2019
+
 This script prepares, filters, and uses raw Exact Earth AIS data to calculate the fishing activity for trawlers
 
-## Anne-Elise Nieblas
-## 11/11/2019
 ## Description: 
 This script prepares, filters, and uses raw AIS data to calculate the fishing activity within an area of interest following 8 steps:
                 A. Customisation of path, filenames, processing options
