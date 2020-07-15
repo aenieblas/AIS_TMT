@@ -18,7 +18,9 @@ This script prepares, filters, and uses raw AIS data to calculate the fishing ac
                 8. Explore spatio-temporal patterns of fishing activity
 
 # Inputs : 
-## raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT)
+## AIS data
+
+Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT)
 
    col 1 : MMSI
    col 2 : Timestamp
