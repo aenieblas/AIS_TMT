@@ -20,7 +20,7 @@ This script prepares, filters, and uses raw AIS data to calculate the fishing ac
 # Inputs : 
 ## AIS data
 
-Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT). These data should be stored in the data/raw_AIS folder, which is currently empty, as data are confidential. :
+Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT). These data should be stored in the data/raw_AIS folder, which is currently empty, as data are sensitive. :
 
     col 1 : MMSI
     col 2 : Timestamp
