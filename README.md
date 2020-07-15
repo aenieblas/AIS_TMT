@@ -7,8 +7,7 @@ This script prepares, filters, and uses raw Exact Earth AIS data to calculate th
 ## Description: 
 This script prepares, filters, and uses raw AIS data to calculate the fishing activity within an area of interest following 8 steps:
 
-                A. Customisation of path, filenames, processing options 
-                
+                A. Customisation of path, filenames, processing options                 
                 1. Set up working environment 
                 2. Load and set up data 
                 3. Vessel verification
@@ -20,6 +19,7 @@ This script prepares, filters, and uses raw AIS data to calculate the fishing ac
 
 # Inputs : 
 ## raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT)
+
    col 1 : MMSI
    col 2 : Timestamp
    col 3 : Name
@@ -38,4 +38,5 @@ This script prepares, filters, and uses raw AIS data to calculate the fishing ac
    col 16: NavStatus (0 = under way using engine; 1 = at anchor; 2 = not under command; 3 = restricted maneuverability;
 
 ## shapefiles of the region(s) of interest. 
+
 Here, EEZ of Guinea Bissau and the Joint Marine Area of Senegal and Guinea Bissau
