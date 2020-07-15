@@ -4,7 +4,7 @@ Anne-Elise Nieblas
 
 This script prepares, filters, and uses raw Exact Earth AIS data to calculate the fishing activity for trawlers within an area of interest
 
-## Description: 
+# Description: 
 This script prepares, filters, and uses raw AIS data to calculate the fishing activity within an area of interest following 8 steps:
 
                 A. Customisation of path, filenames, processing options                 
@@ -42,3 +42,8 @@ Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT):
 ## shapefiles of the region(s) of interest. 
 
 Here, EEZ of Guinea Bissau and the Joint Marine Area of Senegal and Guinea Bissau
+
+
+#  Instructions : 
+
+Use AIS_fishing_activity.R to launch and customise scripts. 
