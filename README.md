@@ -20,24 +20,24 @@ This script prepares, filters, and uses raw AIS data to calculate the fishing ac
 # Inputs : 
 ## AIS data
 
-Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT)
+Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT):
 
-   col 1 : MMSI
-   col 2 : Timestamp
-   col 3 : Name
-   col 4 : CallSign
-   col 5 : ImoNumber
-   col 6 : Length
-   col 7 : Breadth
-   col 8 : DeviceClass
-   col 9 : ShipType
-   col 10: Destination
-   col 11: Draught
-   col 12: Latitude
-   col 13: Longitude
-   col 14: SOG (Speed over Ground)
-   col 15: COG (Course over Ground to the next waypoint)
-   col 16: NavStatus (0 = under way using engine; 1 = at anchor; 2 = not under command; 3 = restricted maneuverability;
+    col 1 : MMSI
+    col 2 : Timestamp
+    col 3 : Name
+    col 4 : CallSign
+    col 5 : ImoNumber
+    col 6 : Length
+    col 7 : Breadth
+    col 8 : DeviceClass
+    col 9 : ShipType
+    col 10: Destination
+    col 11: Draught
+    col 12: Latitude
+    col 13: Longitude
+    col 14: SOG (Speed over Ground)
+    col 15: COG (Course over Ground to the next waypoint)
+    col 16: NavStatus (0 = under way using engine; 1 = at anchor; 2 = not under command; 3 = restricted maneuverability;
 
 ## shapefiles of the region(s) of interest. 
 
