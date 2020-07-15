@@ -2,11 +2,11 @@
 Anne-Elise Nieblas
 11/11/2019
 
-This script prepares, filters, and uses raw Exact Earth AIS data to calculate the fishing activity for trawlers
+This script prepares, filters, and uses raw Exact Earth AIS data to calculate the fishing activity for trawlers within an area of interest
 
 ## Description: 
 This script prepares, filters, and uses raw AIS data to calculate the fishing activity within an area of interest following 8 steps:
-                A. Customisation of path, filenames, processing options
+                A. Customisation of path, filenames, processing options n/
                 1. Set up working environment 
                 2. Load and set up data 
                 3. Vessel verification
