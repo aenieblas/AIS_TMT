@@ -2,7 +2,7 @@
 Anne-Elise Nieblas
 11/11/2019
 
-This script prepares, filters, and uses raw Exact Earth AIS data to calculate the fishing activity for trawlers within an area of interest
+This script prepares, filters, and uses raw Exact Earth AIS data to calculate the fishing activity for trawlers within an area of interest. This script was created as part of a capacity-development workshop for AIS use in fisheries management and monitoring in the SRFC of West Africa. Codes were presented at the workshop as an example of how to calculate fishing activity for trawlers using R. These codes use specifically ExactEarth data and investigate potential fishing in the Guinea Bissau EEZ and Joint Marine Area with Senegal. These codes can be adapted to alternate areas of interest with some understanding of R.
 
 # Description: 
 This script prepares, filters, and uses raw AIS data to calculate the fishing activity within an area of interest following 8 steps:
@@ -20,7 +20,7 @@ This script prepares, filters, and uses raw AIS data to calculate the fishing ac
 # Inputs : 
 ## AIS data
 
-Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT):
+Raw Exact Earth AIS data in the format as extracted by Trygg Mat Tracking (TMT). These data should be stored in the data/raw_AIS folder, which is currently empty, as data are confidential. :
 
     col 1 : MMSI
     col 2 : Timestamp
